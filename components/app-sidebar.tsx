@@ -81,7 +81,7 @@ export function AppSidebar({ lang = "en" }: AppSidebarProps) {
                 S
               </div> */}
               <div className="flex flex-col">
-                <span className="text-xl font-semibold text-orange-400">Bharat <span className="text-green-600">RailSync</span></span>
+                <span className="text-xl font-semibold text-orange-400">Steel<span className="text-green-600">link</span></span>
                 <span className="text-xs text-muted-foreground">Rake Formation</span>
               </div>
             </div>
